@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Illustrations"
 date:   2015-10-06 15:39:40
 preview: http://placehold.it/300x300
 ---
