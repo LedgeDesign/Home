@@ -2,9 +2,10 @@
 layout: post
 title:  "Illustrations"
 date:   2015-10-06 15:39:40
+categories: illustrations
 preview: http://placehold.it/300x300
 ---
 
 ![Picture 1](http://placehold.it/800x600)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+The posts seem sorted by date and the date has to be set in the file name
