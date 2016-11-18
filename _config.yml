@@ -9,11 +9,9 @@
 title: LedgeDesign
 email: ledgedesign@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/Home" # the subpath of your site, e.g. /blog
-url: "http://LedgeDesign.github.io" # the base hostname & protocol for your site
+  This site is an all encompassing view of the work of David Ledger, a multi-disciplinary artist whose work reaches far beyond the modern categories of art and design in which we pigeonhole ourselves. There is quite a variety of work to choose from here, enjoy the postings and check back frequently.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://LedgeDesign.github.io/Home" # the base hostname & protocol for your site
 # twitter_username: druthers
 github_username:  LedgeDesign
 
