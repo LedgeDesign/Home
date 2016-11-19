@@ -1,0 +1,9 @@
+---
+layout: page
+title: Illustrations
+---
+{% for illustration in site.illustrations %}
+	<div class="item">
+		<h2><a href="{{ illustration.url }}">{{ illustration.title }}</a></h2>
+	</div>
+{% endfor %}
