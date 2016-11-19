@@ -4,6 +4,6 @@ title: Illustrations
 ---
 {% for illustration in site.illustrations %}
 	<div class="item">
-		<h2><a href="{{ illustration.url | prepend site.baseurl }}">{{ illustration.title }}</a></h2>
+		<h2><a href="{{ site.baseurl }}{{ illustration.url }}">{{ illustration.title }}</a></h2>
 	</div>
 {% endfor %}
