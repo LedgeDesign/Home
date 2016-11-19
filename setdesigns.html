@@ -4,6 +4,6 @@ title: Set Designs
 ---
 {% for setdesign in site.setdesigns %}
 	<div class="item">
-		<h2><a href="{{ setdesign.url }}">{{ setdesign.title }}</a></h2>
+		<h2><a href="{{ setdesign.url | prepend site.baseurl }}">{{ setdesign.title }}</a></h2>
 	</div>
 {% endfor %}
