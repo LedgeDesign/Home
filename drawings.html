@@ -3,7 +3,15 @@ layout: page
 title: Drawings
 ---
 {% for drawing in site.drawings %}
-	<div class="item">
-		<h2><a href="{{ site.baseurl }}{{ drawing.url }}">{{ drawing.title }}</a></h2>
-	</div>
+    {% cycle 'add row' : '<div class="row">', nil, nil %}
+        <div class="col-sm-4">
+            <div class="preview-panel">
+                <a href="{{ site.baseurl }}{{ drawing.url }}">
+                    <img src="{{ drawing.preview }}" data-bind="| prepend: site.baseurl }}">
+                </a>
+                {{ drawing.title }}
+           </div>
+        </div>
+{% cycle 'end row' : nil, nil, '</div>' %}
 {% endfor %}
+{% cycle 'end row' : nil, '</div>', '</div>' %}
