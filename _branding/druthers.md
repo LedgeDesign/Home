@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Ledge Design
-preview: ledgedesign/LedgeDesignLogo.png
+title: Druthers
+preview: druthers/DruthersTag.png
 order: 1
 ---
-I am demoing file structure and trying to figure out how to best use it
-![Business Card](LedgeDesignBusinessCard.png)
-
-Each image can be listed here the alt text is in brackets, the bang (!) means picture tag
-![I am the alt text](LedgeDesignLetterhead.png)
+Created several die cut stickers and business cards to promote this local dj from Long Beach, CA. Additional split cd artwork was created for first monthly brunch dj series, "Tabasco Fiasco".
+![Die Cut Sticker](DruthersTag.png)
+![Die Cut Sticker](BrooklynDruthers.png)
+![Die Cut Sticker](DruthersGaff.png)
+![CD Cover (Front)](drutherstfcd1.png)
+![CD Cover (Back)](drutherstfcd2.png)
+![CD Label](drutherstfcd.png)
