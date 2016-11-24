@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title: MDLA
 preview: http://ledgedesign.com/files/gimgs/29_mdla-sleeve.jpg
 ---

@@ -22,6 +22,8 @@ collections:
     output: true
   setdesigns:
     output: true
+  branding:
+    output: true
 
 # Build settings
 markdown: kramdown

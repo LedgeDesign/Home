@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title: NFL Superbowl XLVI Halftime Show
 tag: "All Access"
 preview: http://ledgedesign.com/files/gimgs/72_1nflhalf.png

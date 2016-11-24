@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title: A Tale of Two Cities by Charles Dickens
 tag: "theater"
 preview: http://ledgedesign.com/files/gimgs/47_totcmodel6.jpg
