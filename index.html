@@ -6,3 +6,30 @@ layout: default
 
   <img class="center-block img-responsive" src="{{ site.baseurl }}/assets/ldportraitindes350x400.png" alt="ledgedesign_selfportraitdrip"/>
 </div>
+
+{% comment %}
+{{ site.time }}                 - current time
+{{ site.pages }}                - list of pages
+{{ site.posts }}                - list of posts
+{{ site.related_posts }}        - list
+{{ site.categories.CATEGORY }}  - list
+{{ site.tags.TAG }}             - list
+
+{{ site.static_files }}
+
+{{ page.content }}  - un-rendered content
+{{ page.title }}
+{{ page.excerpt }}  - un-rendered excerpt
+{{ page.url }}
+{{ page.date }}
+{{ page.id }}       - unique id for RSS feeds
+{{ page.categories }}
+{{ page.tags }}
+{{ page.path }}
+{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+{{ post.excerpt | strip_html }}
+
+<!-- blog pagination: -->
+{{ page.next }}
+{{ page.previous }}
+{% endcomment %}
