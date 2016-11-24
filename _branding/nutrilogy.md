@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Ledge Design
-preview: ledgedesign/LedgeDesignLogo.png
+title: Nu-Trilogy
+preview: nutrilogy/NuT_CD.png
 order: 1
 ---
-I am demoing file structure and trying to figure out how to best use it
-![Business Card](LedgeDesignBusinessCard.png)
+![12" Vinyl Label](NuT12inch.png)
 
 Each image can be listed here the alt text is in brackets, the bang (!) means picture tag
 ![I am the alt text](LedgeDesignLetterhead.png)
