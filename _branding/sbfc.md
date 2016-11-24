@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Ledge Design
-preview: ledgedesign/LedgeDesignLogo.png
+title: South Bay Fit Camp
+preview: sbfc/SouthBayLogo.png
 order: 1
 ---
-I am demoing file structure and trying to figure out how to best use it
-![Business Card](LedgeDesignBusinessCard.png)
-
-Each image can be listed here the alt text is in brackets, the bang (!) means picture tag
-![I am the alt text](LedgeDesignLetterhead.png)
+Designed the identity and brand for this fitness company based in Long Beach, CA.
+![Logo](SouthBayLogo.png)
+![Business Card](SouthBayBusinessCard.png)
