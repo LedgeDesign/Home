@@ -2,7 +2,7 @@
 layout: post
 title: Druthers
 preview: druthers/DruthersTag.png
-order: 6
+order: 1
 ---
 Created several die cut stickers and business cards to promote this local dj from Long Beach, CA. Additional split cd artwork was created for first monthly brunch dj series, "Tabasco Fiasco".
 ![Die Cut Sticker](DruthersTag.png)
