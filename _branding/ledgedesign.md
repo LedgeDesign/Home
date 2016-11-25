@@ -5,9 +5,9 @@ preview: ledgedesign/LedgeDesignLogo.png
 order: 1
 ---
 I am demoing file structure and trying to figure out how to best use it
+
+I reinvented the identity of my company to represent its diverse set of design services. A new logo and set of business cards coincided with a new website to launch my online portfolio.
 ![Logo](LedgeDesignLogo.png)
 ![Business Card](LedgeDesignBusinessCard.png)
 ![Letterhead](LedgeDesignLetterhead.png)
 
-Each image can be listed here the alt text is in brackets, the bang (!) means picture tag
-![I am the alt text](LedgeDesignLetterhead.png)
