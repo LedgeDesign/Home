@@ -1,18 +1,10 @@
 ---
 layout: page
 title: Illustration
-order: 2
+order: 1
 ---
-{% for illutration in site.illustrations %}
-    {% cycle 'add row' : '<div class="row">', nil, nil %}
-        <div class="col-sm-4">
-            <div class="preview-panel">
-                <a href="{{ site.baseurl }}{{ setdesign.url }}">
-                    <img src="{{ illustration.preview }}" data-bind="| prepend: site.baseurl }}">
-                </a>
-                {{ illustration.title }}
-           </div>
-        </div>
-{% cycle 'end row' : nil, nil, '</div>' %}
+
+{% for item in site.illustration %}
+{% include portfolio.html %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>', '</div>' %}
