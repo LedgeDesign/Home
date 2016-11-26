@@ -13,3 +13,4 @@ I contributed a series of designs to this company for personalized gifts, statio
 ![Canvas Design](bluecanvas.jpg)
 ![Canvas Design](greencanvas.jpg)
 ![Stationary Collection](SoluxeGroup6.jpg)
+![Stationary Collection](SoluxeGroup8.jpg)
