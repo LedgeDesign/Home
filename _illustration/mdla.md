@@ -8,4 +8,4 @@ Designed the logo, cd, and the foldable paper sleeve art for these local electro
 ![logo](logo.jpg)
 ![CD Label](CD art.jpg)
 ![CD Sleeve Art](mdla_sleeve.jpg)
-![Skatebaord Graphic Zoom Detail](LBS4.png)
+![CD Sleeve Folding Technique, Step by Step](stepxstep.jpg)
