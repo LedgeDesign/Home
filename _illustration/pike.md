@@ -1,6 +1,9 @@
 ---
 layout: post
-title: MDLA
-preview: http://ledgedesign.com/files/gimgs/29_mdla-sleeve.jpg
+title: Pike Restaraunt & Bar
+preview: pike/Pike.png
+order: 6
 ---
-Created pencil illustration for 8.5" x 11" folded paper CD sleeve.
+Designed a flyer for "Joyride Mondays", an industry night dj party at our local watering hole. Using the Pike's octopus mascot as inspiration, I created this flyer for this weekly show.
+![Flyer](Pike.png)
+![Flyer Detail](PikeZoom.png)
