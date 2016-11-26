@@ -1,6 +1,11 @@
 ---
 layout: post
 title: MDLA
-preview: http://ledgedesign.com/files/gimgs/29_mdla-sleeve.jpg
+preview: mdla/mdla_sleeve.jpg
+order: 2
 ---
-Created pencil illustration for 8.5" x 11" folded paper CD sleeve.
+Designed the logo, cd, and the foldable paper sleeve art for these local electronic musicians. The paper sleeve was made from a standard letter size paper which could be folded into cd sleeves with no adhesive. A limited run of these were made and given out as promotional items.
+![logo](logo.jpg)
+![CD Label](CD art.jpg)
+![CD Sleeve Art](mdla_sleeve.jpg)
+![Skatebaord Graphic Zoom Detail](LBS4.png)
