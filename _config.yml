@@ -16,7 +16,7 @@ url: "https://ledgedesign.github.io" # the base hostname & protocol for your sit
 github_username:  LedgeDesign
 
 collections:
-  illustrations:
+  illustration:
     output: true
   drawings:
     output: true
