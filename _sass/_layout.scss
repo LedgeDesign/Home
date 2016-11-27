@@ -159,6 +159,7 @@
     }
 
     h4 {
+        padding-top: 5px;
         font-size: 20px;
 
         @include media-query($on-laptop) {
@@ -185,4 +186,64 @@
 
 .crop {
   object-fit: cover
+}
+
+
+
+/**
+ * Nav Styles
+ */
+
+body {
+    padding-top: 70px; /* for fixed top menu */
+}
+
+.navbar-custom {
+	background-color:#fff;
+    color:#555;
+  	border-radius:0;
+}
+  
+.navbar-custom .navbar-nav > li > a {
+  	color:#555;
+}
+
+.navbar-custom .navbar-nav > .active > a,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus {
+    color: deeppink;
+	background-color:transparent;
+}
+      
+.navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
+    // text-decoration: none;
+    background-color: #fafafa;
+    color: #2e6da4;
+}
+      
+.navbar-custom .navbar-toggle {
+  	background-color:#eeeeee;
+}
+.navbar-custom .icon-bar {
+  	background-color:#555;
+}
+
+.navbar-brand {
+  padding: 0px;
+  height: 80px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 0px; /* firefox bug fix */
+  width: auto;
+}
+
+.nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
 }
