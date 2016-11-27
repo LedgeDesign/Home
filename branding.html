@@ -3,8 +3,8 @@ layout: page
 title: Identity & Branding
 order: 1
 ---
-
-{% for item in site.branding | sort:"order" %}
+{% assign sorted_collection = site.branding | sort:"order" %}
+{% for item in sorted_collection reversed %}
 {% include portfolio.html %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>', '</div>' %}
