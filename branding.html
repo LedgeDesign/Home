@@ -4,8 +4,7 @@ title: Identity & Branding
 order: 1
 ---
 
-{% assign sorted_collection = site.branding | sort:"order" %}
-{% for item in sorted_collection %}
+{% for item in site.branding | sort:"order" %}
 {% include portfolio.html %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>', '</div>' %}
