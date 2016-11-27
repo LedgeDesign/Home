@@ -3,16 +3,8 @@ layout: page
 title: Set Designs
 order: 4
 ---
-{% for setdesign in site.setdesigns %}
-    {% cycle 'add row' : '<div class="row">', nil, nil %}
-        <div class="col-sm-4">
-            <div class="preview-panel">
-                <a href="{{ site.baseurl }}{{ setdesign.url }}">
-                    <img src="{{ setdesign.preview }}" data-bind="| prepend: site.baseurl }}">
-                </a>
-                {{ setdesign.title }}
-           </div>
-        </div>
-{% cycle 'end row' : nil, nil, '</div>' %}
+{% assign sorted_collection = site.setdesigns | sort:"order" %}
+{% for item in sorted_collection %}
+{% include portfolio.html %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>', '</div>' %}

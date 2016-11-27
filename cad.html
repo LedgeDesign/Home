@@ -1,11 +1,11 @@
-
 ---
 layout: page
 title: CAD
 order: 3
 ---
 
-{% for item in site.branding %}
+{% assign sorted_collection = site.cad | sort:"order" %}
+{% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}
 {% cycle 'end row' : nil, '</div>', '</div>' %}

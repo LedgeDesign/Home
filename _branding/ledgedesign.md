@@ -2,7 +2,7 @@
 layout: post
 title: Ledge Design
 preview: ledgedesign/LedgeDesignLogo.png
-order: 1
+order: 5
 ---
 I am demoing file structure and trying to figure out how to best use it
 

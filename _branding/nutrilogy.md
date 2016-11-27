@@ -2,7 +2,7 @@
 layout: post
 title: Nu-Trilogy
 preview: nutrilogy/NuT_Logo.png
-order: 1
+order: 4
 ---
 Redesigned the logo, identity and brand for this hip-hop music label based of Los Angeles, CA. Promotional campaign included creating artwork for die-cut stickers, 12" vinyl, and compilation CD.
 ![Logo](NuT_Logo.png)
