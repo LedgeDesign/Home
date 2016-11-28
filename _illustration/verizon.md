@@ -1,3 +1,4 @@
+---
 layout: post
 title: Verizon
 preview: verizon/DrPhil.jpg
