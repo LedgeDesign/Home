@@ -11,16 +11,34 @@ layout: default
     {{ content }}
   </article>
 
-  <div class="post-nav">
-    {% if page.next.url %}
-      <a href="{{ site.baseurl }}{{ page.next.url }}">&laquo; Prev</a>
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% if page.collection %}
+    {% assign document = site[the_collection] | sort: "order" | reversed %}
+{% endif %}
+
+{% for links in document %}
+    {% if links.title == page.title %}
+
+        {% unless forloop.first %}
+            {% assign prevurl = prev.url %}
+            {% assign prevtitle = prev.title %}
+        {% endunless %}
+
+        {% unless forloop.last %}
+            {% assign next = document[forloop.index] %}
+            {% assign nexturl = next.url %}
+            {% assign nexttitle = next.title %}
+        {% endunless %}
+
     {% endif %}
-    {% if page.previous.url and page.next.url %}
-      |
-    {% endif %}
-    {% if page.previous.url %}
-      <a href="{{ site.baseurl }}{{ page.previous.url }}">Next &raquo;</a>
-    {% endif %}
-  </div>
+    {% assign prev = links %}
+{% endfor %}
+
+{% if prevurl or nexturl %}
+    <div class="post-nav">
+        {% if prevurl %}<a href="{{ site.baseurl }}{{prevurl}}" class="prev">&laquo; {{ prevtitle}} &laquo; </a>{% endif %}
+        {% if nexturl %}<a href="{{ site.baseurl }}{{nexturl}}" class="next">&raquo; {{nexttitle}} &raquo;</a>{% endif %}
+    </div>
+{% endif %}
 
 </div>
