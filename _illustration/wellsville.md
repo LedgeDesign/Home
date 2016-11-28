@@ -1,3 +1,4 @@
+---
 layout: post
 title: Wellsville
 preview: wellsville/Detail_Instruments.jpg
