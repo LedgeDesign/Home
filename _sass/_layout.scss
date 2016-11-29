@@ -91,7 +91,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0 0;
 }
 
 .page-heading {
@@ -160,10 +160,10 @@
 
     h4 {
         padding-top: 5px;
-        font-size: 20px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 14px;
         }
     }
 }
@@ -194,18 +194,18 @@
  * Nav Styles
  */
 
-body {
-    padding-top: 70px; /* for fixed top menu */
-}
+// body {
+//     padding-top: 80px; /* for fixed top menu */
+// }
 
 .navbar-custom {
 	background-color:#fff;
-    color:#555;
+    color:#999;
   	border-radius:0;
 }
   
 .navbar-custom .navbar-nav > li > a {
-  	color:#555;
+  	color:#999;
 }
 
 .navbar-custom .navbar-nav > .active > a,
@@ -217,20 +217,49 @@ body {
       
 .navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
     // text-decoration: none;
-    background-color: #fafafa;
-    color: #2e6da4;
+    background-color: transparent;
+    color: #000;
 }
       
 .navbar-custom .navbar-toggle {
-  	background-color:#eeeeee;
+  	background-color:transparent;
+      margin-top:80px;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #fff;
 }
 .navbar-custom .icon-bar {
   	background-color:#555;
 }
 
+.navbar-toggle {
+  font-family: 'Muli', sans-serif;
+  font-size: 16px;
+  position: relative;
+  float: clear;
+  margin-right: 0px;
+  padding: 15px 00px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid transparent;
+  border-bottom: .5px solid #ddd;
+  border-top: .5px solid #ddd;
+  border-radius: 0px;
+}
+
 .navbar-brand {
-  padding: 0px;
+  padding: 0px 50px;
   height: 80px;
+
+  @include media-query($on-laptop) {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+  }
+
 }
 
 .navbar-brand>img {
@@ -240,10 +269,18 @@ body {
 }
 
 .nav >li >a {
+//   font-family: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
+  font-family: 'Muli', sans-serif;
   padding-top: 30px;
   padding-bottom: 30px;
+
+  @include media-query($on-laptop) {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
 }
-.navbar-toggle {
-  padding: 10px;
-  margin: 25px 15px 25px 0;
+
+#navcollapse {
+    border-bottom: .5px solid #ddd;
+    // clear: left;
 }
