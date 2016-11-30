@@ -157,10 +157,10 @@
             font-size: 22px;
         }
     }
-
+// changing font-size: 16px; to 12px
     h4 {
         padding-top: 5px;
-        font-size: 16px;
+        font-size: 12px;
 
         @include media-query($on-laptop) {
             font-size: 14px;
