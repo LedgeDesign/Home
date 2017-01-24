@@ -3,7 +3,9 @@ layout: page
 title: Identity & Branding
 order: 1
 ---
+<div class="row">
 {% assign sorted_collection = site.branding | sort:"order" %}
 {% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}
+</div>
