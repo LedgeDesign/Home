@@ -3,9 +3,9 @@ layout: page
 title: CAD
 order: 5
 ---
-
+<div class="row">
 {% assign sorted_collection = site.drawings | sort:"order" %}
 {% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}
-{% cycle 'end row' : nil, '</div>', '</div>' %}
+</div>
