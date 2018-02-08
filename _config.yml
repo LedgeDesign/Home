@@ -9,7 +9,7 @@
 title: LedgeDesign
 email: ledgedesign@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site is an all encompassing view of the my work.  I am a multi-disciplinary artist whose work reaches far beyond the modern categories of art and design in which we pigeonhole ourselves. There is quite a variety of work to choose from here, enjoy the postings and check back frequently.
+  A Selected Collection of Various Work, Professional & Personal 
 baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: "https://ledgedesign.github.io" # the base hostname & protocol for your site
 # twitter_username: druthers
