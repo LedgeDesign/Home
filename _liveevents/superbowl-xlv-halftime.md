@@ -3,6 +3,7 @@ layout: post
 title: NFL Superbowl XLV Halftime Show
 tag: "All Access"
 preview: superbowl-xlv-halftime/BEPNFL1.png
+order: 1
 ---
 Responsible for engineering, designing and drafting Black Eyed Peas' halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
