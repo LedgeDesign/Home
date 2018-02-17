@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CAD
-order: 5
+title: Live Events
+order: 4
 ---
 <div class="row">
-{% assign sorted_collection = site.drawings | sort:"order" %}
+{% assign sorted_collection = site.liveevents | sort:"order" %}
 {% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}

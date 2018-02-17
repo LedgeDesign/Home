@@ -9,7 +9,7 @@
 title: LedgeDesign
 email: ledgedesign@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Selected Collection of Various Work, Professional & Personal 
+  A Selected Collection of Various Work, Professional & Personal
 baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: "https://ledgedesign.github.io" # the base hostname & protocol for your site
 # twitter_username: druthers
@@ -18,7 +18,7 @@ github_username:  LedgeDesign
 collections:
   illustration:
     output: true
-  drawings:
+  liveevents:
     output: true
   theater:
     output: true
