@@ -8,7 +8,7 @@ Designed the identity and brand for this health and fitness company based in Lon
 ![Logo](Recreation_Fitness.png)
 ![Logo](RecFitSummerIcon.png)
 ![Postcard](RecFitSurfYoga.png)
-![Postcard](RecFitSummer.png)
+![Postcard](RecFitSummerG.png)
 ![Postcard](RecFitMommy.png)
 ![Postcard](RecFitRegF.png)
 ![Postcard](RecFitRegB.png)
