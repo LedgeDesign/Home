@@ -6,5 +6,5 @@ preview: superbowl-xlvi-halftime/5NFLHalf.png
 ---
 Responsible for engineering, designing and drafting Madonna's halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
-<iframe width="800" src="https://www.youtube.com/embed/xPIiaSnYV5E?color=white&theme=light"></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/xPIiaSnYV5E?color=white&theme=light"></iframe>
 ![Image](NFLHalf.png)
