@@ -2,7 +2,7 @@
 layout: post
 title: 2011 NBA All Star Game
 tag: "All Access"
-preview: NbaAllStar1.png
+preview: 2011_NBA_Allstar/NbaAllStar1.png
 order: 3
 ---
 Responsible for engineering, designing and drafting Madonna's halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
