@@ -14,4 +14,3 @@ Responsible for engineering, designing and drafting Black Eyed Peas' halftime sh
 ![Image](BEPNFL4.png)
 ![Image](BEPNFL5.png)
 ![Image](BEPNFL6.png)
-![Image](BEPNFL6.png)
