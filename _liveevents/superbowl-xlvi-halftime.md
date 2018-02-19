@@ -18,4 +18,3 @@ Responsible for engineering, designing and drafting Madonna's halftime show stag
 ![Image](MadonnaNFL3.png)
 ![Image](MadonnaNFL4.png)
 ![Image](MadonnaNFL5.png)
-![Image](MadonnaNFL5.png)
