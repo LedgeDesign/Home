@@ -2,7 +2,7 @@
 layout: post
 title: 2012 KISS The Tour
 tag: "All Access"
-preview: 2012_Kiss_The_Tour/6Kiss.png
+preview: 2012_Kiss_The_Tour/PreKISS.png
 order: 4
 ---
 Responsible for engineering, designing and drafting Madonna's halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
