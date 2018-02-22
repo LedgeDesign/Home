@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2012 KISS The Tour
+title: 2012 Kiss The Tour
 tag: "All Access"
 preview: 2012_Kiss_The_Tour/PreKiss.png
 order: 4
