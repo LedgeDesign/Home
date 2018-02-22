@@ -4,7 +4,7 @@ title: Television
 order: 5
 ---
 <div class="row">
-{% assign sorted_collection = site.liveevents | sort:"order" %}
+{% assign sorted_collection = site.television | sort:"order" %}
 {% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}
