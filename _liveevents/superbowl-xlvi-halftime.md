@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NFL Superbowl XLVI Halftime Show
+title: Superbowl XLVI Halftime Show
 tag: "All Access"
 preview: superbowl-xlvi-halftime/MadonnaNFL1.png
 order: 2

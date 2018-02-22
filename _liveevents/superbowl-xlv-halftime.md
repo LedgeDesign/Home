@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NFL Superbowl XLV Halftime Show
+title: Superbowl XLV Halftime Show
 tag: "All Access"
 preview: superbowl-xlv-halftime/BEPNFL1.png
 order: 1
