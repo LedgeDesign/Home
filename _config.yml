@@ -20,6 +20,8 @@ collections:
     output: true
   liveevents:
     output: true
+  television:
+    output: true
   theater:
     output: true
   branding:
