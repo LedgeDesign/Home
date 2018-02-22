@@ -1,10 +1,25 @@
 ---
 layout: post
-title: Vitality
-preview: vitality/VitalityLogo.png
-order: 3
+title: X-Play The Musical
+preview: x-play_musical/2X-Play_Musical.png
+order: 1
 ---
 Designed the identity and brand for this healthy collective out of Long Beach, CA.
-![Logo](VitalityLogo.png)
-![Business Card](VitalityBusinessCard.png)
-![Letterhead](VitalityLetterhead.png)
+
+![Logo](1X-Play_Musical.png)
+![Logo](2X-Play_Musical.png)
+![Logo](3X-Play_Musical.png)
+![Logo](4X-Play_Musical.png)
+![Logo](5X-Play_Musical.png)
+![Logo](6X-Play_Musical.png)
+![Logo](7X-Play_Musical.png)
+![Logo](8X-Play_Musical.png)
+![Logo](9X-Play_Musical.png)
+![Logo](10X-Play_Musical.png)
+![Logo](11X-Play_Musical.png)
+![Logo](12X-Play_Musical.png)
+![Logo](13X-Play_Musical.png)
+![Logo](14X-Play_Musical.png)
+![Logo](15X-Play_Musical.png)
+![Logo](16X-Play_Musical.png)
+![Logo](17X-Play_Musical.png)
