@@ -1,10 +1,11 @@
 ---
 layout: post
 title: X-Play The Musical
+tag: "television"
 preview: x-play_musical/2X-Play_Musical.png
 order: 1
 ---
-Designed the identity and brand for this healthy collective out of Long Beach, CA.
+X-Play The Musical
 
 ![Logo](1X-Play_Musical.png)
 ![Logo](2X-Play_Musical.png)
