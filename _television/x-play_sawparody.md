@@ -2,7 +2,7 @@
 layout: post
 title: X-Play Saw Parody
 tag: "television"
-preview: X-Play_SawParody/1X-PlaySaw.png
+preview: x-play_sawparody/1X-PlaySaw.png
 order: 2
 ---
 X-Play Saw Parody
