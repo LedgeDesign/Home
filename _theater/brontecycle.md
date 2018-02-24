@@ -2,7 +2,7 @@
 layout: post
 title: The Brontë Cycle
 tag: "theater"
-preview: bronte_cycle/3brontecycle.png
+preview: bronte/3brontecycle.png
 order: 2
 ---
 The Brontë Cycle
