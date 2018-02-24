@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Sister in this House by Wendy Kesselman
+title: My Sister in this House
 tag: "theater"
 preview: msith/1msith.png
 order: 3

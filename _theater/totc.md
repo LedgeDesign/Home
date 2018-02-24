@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Tale of Two Cities by Charles Dickens
+title: A Tale of Two Cities
 tag: "theater"
 preview: totc/7totc.png
 order: 1
