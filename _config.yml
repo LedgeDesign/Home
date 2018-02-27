@@ -26,6 +26,8 @@ collections:
     output: true
   branding:
     output: true
+  furniture:
+    output: true
 
 # Build settings
 markdown: kramdown
