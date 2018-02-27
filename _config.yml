@@ -26,7 +26,7 @@ collections:
     output: true
   branding:
     output: true
-  furniture:
+  interior:
     output: true
 
 # Build settings
