@@ -4,5 +4,8 @@ title: Furniture
 order: 7
 ---
 <div class="row">
-
+% assign sorted_collection = site.furniture | sort:"order" %}
+{% for item in sorted_collection %}
+{% include portfolio.html %}
+{% endfor %}
 </div>
