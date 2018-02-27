@@ -5,7 +5,7 @@ tag: "Nesting Lazy Suzan"
 preview: lazysusan/1jdtable.png
 order: 3
 ---
-Responsible for designing and drafting this bookshelf for a private residence
+Responsible for designing and drafting this coffee table for a private residence
 
 ![Image](1jdtable.png)
 ![Image](2jdtable.png)
