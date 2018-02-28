@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bookshelf
+title: Ambient Bookshelf
 tag: "Bookshelf"
 preview: bookshelves/1bookshelves.png
 order: 2
