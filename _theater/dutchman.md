@@ -5,9 +5,11 @@ tag: "theater"
 preview: dutchman/10dutchman.png
 order: 4
 ---
-Dutchman
-by Amiri Baraka
-Dutchman was performed by the Garage Theatre Company at the Garage Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as a carpenter, graphic designer and painter to help bring this play to life.
+Dutchman by Amiri Baraka was presented by the Garage Theatre Company at the Garage Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as a carpenter, graphic designer and painter to help bring this play to life.
+
+Nominated for the 2006 NAACP Theater Awards for: Best Set Design & Sound Design
+
+
 ![Image](1dutchman.png)
 ![Image](2dutchman.png)
 ![Image](3dutchman.png)
