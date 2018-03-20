@@ -5,9 +5,8 @@ tag: "theater"
 preview: rmsb/7rmsb.png
 order: 5
 ---
-Rod McGirdlebutt Strikes Back
-by Jamie Sweet
-Rod McGirdlebutt Strikes Back was performed by the The Garage Theatre Company at the Garage Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as Lead Carpenter, Prop Master and Lead Scenic Artist to help bring this play to life.
+Rod McGirdlebutt Strikes Back by Jamie Sweet was presented by the The Garage Theatre Company at the Garage Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as Lead Carpenter, Prop Master and Lead Scenic Artist to help bring this play to life.
+
 ![Image](1rmsb.png)
 ![Image](2rmsb.png)
 ![Image](3rmsb.png)
