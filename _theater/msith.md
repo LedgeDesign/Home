@@ -5,7 +5,9 @@ tag: "theater"
 preview: msith/1msith.png
 order: 3
 ---
-Adapted for the stage by Matthew Francis, this was my first production as a theater set designer. The play was preformed by the University Players while attending their M.F.A. program at California State University, Long Beach. Included here are photos of the production's 1/2" scale model, the actual stage and performers, and the collection of life sized puppets I created, including a three-faced English judge. Along with being the Set Designer for this production, other responsibilities included puppetry, painting, welding, and carpentry.
+My Sister In This House by Wendy Kesselman, presented at the McCadden Place Theatre, Hollywood, Los Angeles, 1999.
+
+Nominated by the L.A. Weekly Small Theatre Awards for: Supporting Female Performance, Playwriting, Lighting Design, Set Design, and Original Music
 
 ![Image](1msith.png)
 ![Image](2msith.png)
