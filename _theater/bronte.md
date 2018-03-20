@@ -5,9 +5,7 @@ tag: "theater"
 preview: bronte/3brontecycle.png
 order: 2
 ---
-The Brontë Cycle
-by John O'Keefe
-The Brontë Cycle was performed by the California Repertory Company at the Edison Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as a carpenter, welder, and painter to help bring this play to life.
+The Brontë Cycle by John O'Keefe was presented by the California Repertory Company at the Edison Theater in Long Beach, CA. Along with developing the Set Design for this production, I also worked as a carpenter, welder, and painter to help bring this play to life.
 
 ![Image](1brontecycle.png)
 ![Image](2brontecycle.png)
