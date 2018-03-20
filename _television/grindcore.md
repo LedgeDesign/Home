@@ -5,7 +5,6 @@ tag: "television"
 preview: grindcore/5grindcore.png
 order: 5
 ---
-Grindcore
 
 ![Image](1grindcore.png)
 ![Image](2grindcore.png)

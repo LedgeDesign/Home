@@ -5,7 +5,6 @@ tag: "television"
 preview: mmo_report/3MMOReport.png
 order: 4
 ---
-The MMO Report
 
 ![Image](1MMOReport.png)
 ![Image](2MMOReport.png)

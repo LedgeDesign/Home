@@ -5,7 +5,6 @@ tag: "television"
 preview: unscrewed/3unscrewed.png
 order: 3
 ---
-Unscrewed
 
 ![Image](1unscrewed.png)
 ![Image](2unscrewed.png)

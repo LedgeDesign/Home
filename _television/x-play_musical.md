@@ -5,7 +5,6 @@ tag: "television"
 preview: x-play_musical/2X-Play_Musical.png
 order: 1
 ---
-X-Play The Musical
 
 ![Logo](1X-Play_Musical.png)
 ![Logo](2X-Play_Musical.png)

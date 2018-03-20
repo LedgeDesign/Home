@@ -5,7 +5,6 @@ tag: "television"
 preview: pulse/1Pulse.png
 order: 6
 ---
-Pulse
 
 ![Image](1Pulse.png)
 ![Image](2Pulse.png)
