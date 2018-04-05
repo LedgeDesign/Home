@@ -2,7 +2,7 @@
 layout: post
 title: Blue Hues Flooring
 tag: "Blue Flooring"
-preview: blueshuesflooring/3Flooring.png
+preview: bluefloor/3Flooring.png
 order: 5
 ---
 Responsible for designing, laying and painting this custom flooring.
