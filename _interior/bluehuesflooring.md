@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Hues Flooring
-tag: "Blue FLooring"
+tag: "Blue Flooring"
 preview: blueshuesflooring/3Flooring.png
 order: 5
 ---
