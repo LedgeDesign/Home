@@ -2,7 +2,7 @@
 layout: post
 title: Custom Dart Board
 tag: "Dart Board"
-preview: dartboard/1dart.png
+preview: dartboard/2dart.png
 order: 6
 ---
 Responsible for designing, building and painting this custom dart board.
