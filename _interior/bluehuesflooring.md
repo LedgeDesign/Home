@@ -5,7 +5,9 @@ tag: "Blue Flooring"
 preview: blueshuesflooring/3Flooring.png
 order: 5
 ---
-Responsible for designing and constructing this bookshelf for a private residence. Ebony Stained Maple with Amber Panelite, and dimmable incandescent bulbs.
+Responsible for designing, laying and painting this custom flooring.
+
+Highlighted on Design*Sponge <a href="http://www.designsponge.com/2013/04/before-after-davids-blue-floors.html">here</a>
 
 ![Image](1Flooring.png)
 ![Image](2Flooring.png)
