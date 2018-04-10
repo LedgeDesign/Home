@@ -2,7 +2,7 @@
 layout: post
 title: Porsche Experience Center Grand Opening
 tag: "Porsche"
-preview:
+preview: porsche/1Porsche.png
 order: 1
 ---
 Responsible for drafting and managing all interior and exterior drawings for the two Technical Directors for this event.  Drawings integrated separate designers' requests including: power generator layout and cable management, staging & truss with integrated video panels, red carpet with signage, smoke machines, show lighting, & pyrotechnics, as well as rental furniture & food courts. All intertwined within their new 2 story facility and 6.5 kilometer test track.

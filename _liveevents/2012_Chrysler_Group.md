@@ -3,7 +3,7 @@ layout: post
 title: 2012 Chrysler Group
 tag: "All Access"
 preview: 2012_Chrysler_Group/2_Chrysler.png
-order: 5
+order: 6
 ---
 Responsible for engineering and drafting staging elements and audience risers for this complex car show display.
 
