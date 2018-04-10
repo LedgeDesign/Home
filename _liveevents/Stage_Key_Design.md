@@ -1,5 +1,5 @@
 ---
-layout: post
+*layout: post
 title: Stage Key Design
 tag: "Ledge Design"
 preview: Stage_Key_Design/2SKD.png
