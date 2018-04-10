@@ -3,7 +3,7 @@ layout: post
 title: 2012 Kiss The Tour
 tag: "All Access"
 preview: 2012_Kiss_The_Tour/PreKiss.png
-order: 4
+order: 5
 ---
 Responsible for engineering, designing and drafting 2012 Kiss The Tour. Staging elements involved integrated video panels, pyrotechnics, smoke machines, stage lighting, and hydraulic lifts for this event.
 
