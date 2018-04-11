@@ -5,7 +5,7 @@ tag: "All Access"
 preview: superbowl-xlv-halftime/PreBEPNFL.png
 order: 2
 ---
-All Access Staging & Productions, General Manager Drafting & Engineering
+All Access Staging & Productions • General Manager • Drafting & Engineering
 
 Responsible for engineering, designing and drafting Black Eyed Peas' halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 

@@ -5,7 +5,7 @@ tag: "All Access"
 preview: 2012_Chrysler_Group/2_Chrysler.png
 order: 6
 ---
-All Access Staging & Productions, General Manager Drafting & Engineering
+All Access Staging & Productions • General Manager • Drafting & Engineering
 
 Responsible for engineering and drafting staging elements and audience risers for this complex car show display.
 
