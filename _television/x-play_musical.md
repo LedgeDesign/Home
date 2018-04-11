@@ -1,6 +1,6 @@
 ---
 layout: post
-title: X-Play The Musical
+title: X-Play • The Musical
 tag: "television"
 preview: x-play_musical/2X-Play_Musical.png
 order: 1
