@@ -5,6 +5,9 @@ tag: "television"
 preview: unscrewed/3unscrewed.png
 order: 3
 ---
+G4TV • Senior Art Director
+
+Unscrewed with Martin Sargent was G4's irreverent late night talk show, focusing on the comedy of technology and the internet. The show had a traditional interview setup with a host desk, while the guests sipped cocktails on a couch and desert island table. Additional areas on the set included a working backlit tile waterfall with bar for three, and a rotating wall which was shared with another fan favorite, Screen Savers.  Responsible for designing and drafting items for construction. Other responsibilities included budgeting, scheduling crew, purchasing materials and making props during its run.
 
 ![Image](1unscrewed.png)
 ![Image](2unscrewed.png)
