@@ -7,7 +7,7 @@ order: 2
 ---
 G4TV • Senior Art Director
 
-X-Play's Top Ten Scariest Games of All Time was an homage to the movie SAW directed by James Wan, a 2004 American horror film. This set was created in a small sound stage @ G4 Studios.  Based on film footage, I recreated scenes from the movie on a modest budget, designing and drafting items for construction and paint. Other responsibilities included budgeting, scheduling crew, purchasing materials and renting props.
+X-Play's Top Ten Scariest Games of All Time was an homage to the movie SAW, directed by James Wan, a 2004 American horror film. This set was created in a small sound stage @ G4 Studios.  Based on film footage, I recreated scenes from the movie on a modest budget, designing and drafting items for construction and paint. Other responsibilities included budgeting, scheduling crew, purchasing materials and renting props.
 
 ![Image](1X-PlaySaw.png)
 ![Image](2X-PlaySaw.png)
