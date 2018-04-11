@@ -3,8 +3,10 @@ layout: post
 title: 2011 NBA All Star Game
 tag: "All Access"
 preview: 2011_NBA_Allstar/PreNbaAllStar.png
-order: 4
+order: 3
 ---
+All Access Staging & Productions, General Manager Drafting & Engineering
+
 Responsible for engineering, designing and drafting the 2011 NBA All Star Game show stage for the player introduction's and halftime show performance. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
 <iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/aBmU7m_dy88" allow="autoplay; encrypted-media" allowfullscreen></iframe>

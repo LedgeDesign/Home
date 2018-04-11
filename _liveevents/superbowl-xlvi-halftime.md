@@ -3,8 +3,10 @@ layout: post
 title: Superbowl XLVI Halftime Show
 tag: "All Access"
 preview: superbowl-xlvi-halftime/PreMadonnaNFL.png
-order: 3
+order: 1
 ---
+All Access Staging & Productions, General Manager Drafting & Engineering
+
 Responsible for engineering, designing and drafting Madonna's halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
 <iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/X3ik_8QjM3U" allow="autoplay; encrypted-media" allowfullscreen></iframe>
