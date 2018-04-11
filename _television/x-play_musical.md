@@ -7,7 +7,7 @@ order: 1
 ---
 G4TV • Senior Art Director
 
-X-Play, G4's show about videogames, was well known for its reviews and comedy skits, so why not a musical?  These sets were created in a small sound stage and back lot with a modest budget.  Developed 1/8"=1'-0" scale models for design approval, drafted items for constructed and paint. Other responsibilities included budgeting, scheduling crew, purchasing materials and renting props.
+X-Play, G4's show about videogames, was well known for its reviews and comedy skits, so why not a musical?  These sets were created in a small sound stage and back lot with a modest budget.  Developed 1/8"=1'-0" scale models for design approval, drafted items for construction and paint. Other responsibilities included budgeting, scheduling crew, purchasing materials and renting props.
 
 ![Logo](1X-Play_Musical.png)
 ![Logo](2X-Play_Musical.png)
