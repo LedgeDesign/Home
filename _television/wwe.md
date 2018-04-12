@@ -11,8 +11,6 @@ Television commercial shot for the Mattel's WWE Crash Cage Playset & WWE 6" Basi
 
 <iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/ERd4uKqD0zc" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ERd4uKqD0zc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ![Image](1wwe.png)
 ![Image](2wwe.png)
 ![Image](3wwe.png)
