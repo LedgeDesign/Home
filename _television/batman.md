@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Justice League TVC
+title: Mattel • Justice League
 tag: "television"
 preview: batman/prenavbatman.png
 order: 1
