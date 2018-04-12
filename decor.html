@@ -4,7 +4,7 @@ title: Decor
 order: 7
 ---
 <div class="row">
-{% assign sorted_collection = site.interior | sort:"order" %}
+{% assign sorted_collection = site.decor | sort:"order" %}
 {% for item in sorted_collection %}
 {% include portfolio.html %}
 {% endfor %}
