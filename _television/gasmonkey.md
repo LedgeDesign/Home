@@ -2,26 +2,21 @@
 layout: post
 title: Mattel • Gas Monkey
 tag: "television"
-preview: batman/prenavbatman.png
-order: 1
+preview: gasmonkey/pregasmonkey.png
+order: 2
 ---
 Mattel • CAD Production Designer
 
-Television commercial shot for the Mattel toy line in support of the Justice League film. Designed and drafted items for construction and painting. Other responsibilities included budgeting, prepping cnc files, 3d printing, purchasing materials and renting stage decking.
+Television commercial shot for the Mattel's Hot Wheels: Screen Time™ Showcase. Designed and drafted items for construction and painting. Other responsibilities included budgeting, prepping cnc files, 3d printing, and purchasing materials.
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://player.vimeo.com/video/251694440?title=0&byline=0&portrait=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![Image](1batman.png)
-![Image](2batman.png)
-![Image](3batman.png)
-![Image](4batman.png)
-![Image](5batman.png)
-![Image](6batman.png)
-![Image](7batman.png)
-![Image](8batman.png)
-![Image](9batman.png)
-![Image](10batman.png)
-![Image](11batman.png)
-![Image](12batman.png)
-![Image](13batman.png)
-![Image](14batman.png)
+![Image](1gasmonkey.png)
+![Image](2gasmonkey.png)
+![Image](3gasmonkey.png)
+![Image](4gasmonkey.png)
+![Image](5gasmonkey.png)
+![Image](6gasmonkey.png)
+![Image](7gasmonkey.png)
+![Image](8gasmonkey.png)
+![Image](9gasmonkey.png)
