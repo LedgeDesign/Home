@@ -2,7 +2,7 @@
 layout: post
 title: Batman JLM Batmobile TVC
 tag: "television"
-preview: batman/1batman.png
+preview: batman/prenavbatman.png
 order: 1
 ---
 Mattel • CAD Production Designer
