@@ -12,8 +12,6 @@ Unscrewed with Martin Sargent was G4's irreverent late night talk show, focusing
 ![Image](1unscrewed.png)
 ![Image](2unscrewed.png)
 ![Image](3unscrewed.png)
-![Image](4unscrewed.png)
-![Image](5unscrewed.png)
 ![Image](6unscrewed.png)
 ![Image](7unscrewed.png)
 ![Image](8unscrewed.png)
