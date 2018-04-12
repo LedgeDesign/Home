@@ -5,6 +5,9 @@ tag: "television"
 preview: grindcore/5grindcore.png
 order: 5
 ---
+G4TV • Senior Art Director
+
+Grindcore was a pilot geared towards fans of low-budget independent films, primarily of the horror genre.  Responsible for designing and drafting items for construction and painting. Other responsibilities included budgeting, scheduling crew, purchasing materials and renting props and set pieces.
 
 ![Image](1grindcore.png)
 ![Image](2grindcore.png)
