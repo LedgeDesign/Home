@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Batman JLM Batmobile TVC
+title: Justice League TVC
 tag: "television"
 preview: batman/prenavbatman.png
 order: 1
