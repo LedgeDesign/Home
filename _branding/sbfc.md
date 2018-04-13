@@ -6,5 +6,4 @@ order: 4
 ---
 Designed the identity and brand for this fitness company based in Long Beach, CA.
 ![Logo](SouthBayLogo.png)
-![Business Card](SouthBayBusinessCard.png)
-![Letterhead](SouthBayLetterhead.png)
+![Marketing Materials](4sbfc.png)
