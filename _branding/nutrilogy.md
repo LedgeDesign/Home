@@ -8,5 +8,5 @@ Redesigned the logo, identity and brand for this hip-hop music label based of Lo
 ![Logo](NuT_Logo.png)
 ![Die Cut Sticker](NuT_Sticker.png)
 ![CD Label](NuT_CD.png)
-![12" Vinyl Label](NuT12inch.png)12" Vinyl Label
+![12" Vinyl Label](NuT12inch.png)
 ![Business Card](NuT_BCard.png)
