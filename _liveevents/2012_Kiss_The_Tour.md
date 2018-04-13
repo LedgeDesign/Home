@@ -3,7 +3,7 @@ layout: post
 title: 2012 Kiss The Tour
 tag: "All Access"
 preview: 2012_Kiss_The_Tour/PreKiss.png
-order: 5
+order: 6
 ---
 All Access Staging & Productions • General Manager • Drafting & Engineering
 
