@@ -1,4 +1,4 @@
-*---
+---
 layout: post
 title: Mattel • Justice League
 tag: "television"
