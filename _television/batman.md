@@ -21,6 +21,3 @@ Television commercial shot for the Mattel toy line in support of the Justice Lea
 ![Image](8jl.png)
 ![Image](9jl.png)
 ![Image](10jl.png)
-
-
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://player.vimeo.com/video/251694440?title=0&byline=0&portrait=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
