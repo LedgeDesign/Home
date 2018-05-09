@@ -9,7 +9,7 @@ All Access Staging & Productions • General Manager • Drafting & Engineering
 
 Responsible for engineering, designing and drafting 2012 Kiss The Tour. Staging elements involved integrated video panels, pyrotechnics, smoke machines, stage lighting, and hydraulic lifts for this event.
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/iu4YyuVRpgI?list=RDxTanQb1KS_0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/iu4YyuVRpgI?list=RDxTanQb1KS_0?controls=0&showinfo=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ![Image](1Kiss.png)
 ![Image](2Kiss.png)
 ![Image](3Kiss.png)
