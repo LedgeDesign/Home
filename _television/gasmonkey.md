@@ -9,7 +9,7 @@ Mattel • CAD Production Designer
 
 Television commercial shot for the Mattel's Hot Wheels: Screen Time™ Showcase. Designed and drafted items for construction and painting. Other responsibilities included budgeting, prepping cnc files, 3d printing, and purchasing materials.
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk?controls=0&showinfo=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](1gm.png)
 ![Image](2gm.png)
