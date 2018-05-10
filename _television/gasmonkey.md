@@ -11,7 +11,7 @@ Television commercial shot for the Mattel's Hot Wheels: Screen Time™ Showcase.
 
 <iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk?controls=0&showinfo=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk?autoplay=0&controls=0&showinfo=0"  allow="autoplay encrypted-media" allowfullscreen></iframe>
+<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/VbYdb_qrkVk?autoplay=1&controls=0&showinfo=0"  allow="autoplay encrypted-media" allowfullscreen></iframe>
 
 ![Image](1gm.png)
 ![Image](2gm.png)
