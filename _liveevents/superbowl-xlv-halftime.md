@@ -9,7 +9,8 @@ All Access Staging & Productions • General Manager • Drafting & Engineering
 
 Responsible for engineering, designing and drafting Black Eyed Peas' halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/xPIiaSnYV5E?controls=0&showinfo=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/xPIiaSnYV5E?controls=0&showinfo=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
+
 ![Image](BEPNFL1.png)
 ![Image](BEPNFL2.png)
 ![Image](BEPNFL3.png)

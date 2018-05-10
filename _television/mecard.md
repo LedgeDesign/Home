@@ -9,7 +9,8 @@ Mattel • CAD Production Designer
 
 Television commercial shot for the Mattel's Mecard transforming action battle game. Designed and drafted items for construction and painting. Other responsibilities included budgeting, prepping cnc and digital printing files, and purchasing materials.
 
-<iframe frameborder="0" scrolling="no" height="390" width="100%" src="https://www.youtube.com/embed/bBsN3Q2vW_o?controls=0&showinfo=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/bBsN3Q2vW_o?controls=0&showinfo=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
+
 
 ![Image](1mec.png)
 ![Image](2mec.png)
