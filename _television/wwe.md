@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mattel • WWE Crash Cage
+title: Mattel • WWE
 tag: "television"
 preview: wwe/precc.png
 order: 3
@@ -9,7 +9,7 @@ Mattel • CAD Production Designer
 
 Television commercial shot for the Mattel's WWE Crash Cage Playset & WWE 6" Basic Figures. Designed and drafted items for construction and painting. Other responsibilities included budgeting, prepping cnc files, 3d printing, purchasing materials.
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ERd4uKqD0zc?controls=0&showinfo=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ERd4uKqD0zc?showinfo=0&rel=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
 
 ![Image](1cc.png)
 ![Image](2cc.png)

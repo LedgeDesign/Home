@@ -9,7 +9,7 @@ All Access Staging & Productions • General Manager • Drafting & Engineering
 
 Responsible for engineering, designing and drafting Madonna's halftime show stage. Staging elements involved integrated video panels, smoke machines, stage lighting, and hydraulic lifts for this event.
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/X3ik_8QjM3U?controls=0&showinfo=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/X3ik_8QjM3U?showinfo=0&rel=0" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
 
 ![Image](MadonnaNFL1.png)
 ![Image](MadonnaNFL2.png)
