@@ -7,7 +7,7 @@ order: 6
 ---
 Mattel • CAD Production Designer
 
-Television commercial shot for Barbie's Andy Warhol Edition. Designed and drafted items for construction and painting and 3d printing. Other responsibilities included budgeting, prepping cnc files, and purchasing materials.
+Television commercial shot for Barbie's Andy Warhol Edition. Designed and drafted items for construction, painting and 3d printing. Other responsibilities included budgeting, prepping cnc files, and purchasing materials.
 
 <div class="video-container"><iframe src="https://smedia3.webcollage.net/5d48ec466578b8bb04e570cbeb9243eaac141a0c?Signature=7zvxPTTm1VTuKt2AKyNr9ttJyqA%3D&AWSAccessKeyId=AKIAIIE5CHZ4PRWSLYKQ&Expires=1893520613&response-content-type=video/mp4" allowfullscreen="" frameborder="0" width="100%" height="390"></iframe></div>
 
