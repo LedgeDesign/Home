@@ -7,13 +7,15 @@
 
 # Site settings
 title: David Ledger
-email: ledgedesign@me.com
+email: ledgedesign@mac.com
 description: > # this means to ignore newlines until "baseurl:"
   A Selected Collection of Various Work, Professional & Personal
 baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: "https://ledgedesign.github.io" # the base hostname & protocol for your site
 # twitter_username: druthers
-behance_username:
+behance_username: davidledger
+linkedin_username: daledger
+instagram_username: ledgedesign
 github_username:  LedgeDesign
 
 collections:
