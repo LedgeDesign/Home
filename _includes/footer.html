@@ -17,6 +17,28 @@
             </a>
           </li>
           {% endif %}
+          {% if site.linkedin_username %}
+          <li>
+            <a href="https://www.linkedin.com/{{ site.linkedin_username }}">
+              <span class="icon  icon--linkedin">
+                <svg viewBox="0 0 26 26">
+                 <image width="26" height="26" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAACGklEQVRIiWP8////fwY6ABZirHjz+g3Drh17GG5cv4kirqGpzuDm4cIgIiqCoQcd4PXR1k3bGFYsX81w8doNDDlkoK+lwRARGcrg7eeFIQcDWC0C+aC9pYth94HDGBrwAVcHW4bKmjKsPsSwCGRJbEwKw9MXLzEUEwOkJcQZFi+Zg2EZEzUtAQGQXpAZILNwWgQKLnRLBAX4MAwjxjKQWVgtAkU8epyAgmHd2uUM2WlJGIYRAiCzQGZiWARKXejA2dGOQVhEiCEkPJgsnyGbCc5HoPDEloQXQRXu3X+I4f2HTxjyhADITJDZoIQBtgiUGbEBVUUFhs+fvzCYmRgxrN+yncHKzJhBXEyM4eWrV2DVvr7eDE8eP2HYtXsfw+37D7CYADE7KjYCYhF6jocBHW1NhsbWOjAPZBHIYG8/Twx16dmpDMEBkVgtg5nNhCFDJLh5/SYYw0BwcABejUSVdegAZEFoRAIDJwc7w7at68AJhp8ff2Ihy0d3bt8D099//GQ4cewkhjw2ALYIVArTCsDMBlsEKuppBWBmgy0CpXNQUU9tADITVrjCS29QcVFZ24xiFag0EBEUArNBSRdUJHFxcjJ8+/4dXiZiE4OB9uZaeB2FUk0U55dhlHfkAlDd1DsRUbCiWESNaoIBR52EkrxBEiAFIIXUtATDImTLQF4nFYD0YLOEAVtVjgxo3jhBBzRvblENMDAwAAB9wwX1GHIOEwAAAABJRU5ErkJggg=="/>
+                </svg>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.instagram_username %}
+          <li>
+            <a href="https://www.www.instagram.com/{{ site.instagram_username }}">
+              <span class="icon  icon--instagram">
+                <svg viewBox="0 0 26 26">
+                  <image width="26" height="26" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAChElEQVRIib1WbUhTURh+ksFUMlI3CoLQH1EpBAXRBxRJVNjAPn4EkUGE0I/AqEAZs0FrYznKKOhHIBHMEoJAhCURURDYFxUErkU/lCAoNjUyyP1aPC+cw909293y64HDPfc973mf+57349xluVwuhyWAq1yKxPBjJMc+Y2bmj7zX1CxHU/NG+NoOGrqF4OhRKvkFN/pu4dW7D8aaFTu2bsH5C53Y0LTeWFMoSnTxXBeevnhpyJ2wb88uXL8ZK6hhEGXSGZxs78D3Hz8N5XKwZvUqxAf64fF6nIlaDxyeM4kCyUaeDBUnKnZctStXwFNbZ8iJzPQUpn/9NuT2Y9RZx8DbSaoq3QgGuuFrazUMWZEYHkEo0ou/s1ktpS3aVAmiPTrTcdbIruiVILbv3IaAP4h0etIgIBob1sLf043Xo2/gvxTKW2M23um/LfMKJbST8LjoSTTci9G37/F1fEKGAufV1VU4cvSQfAh1uceKj5/G9JsQsRjtUDEZn/gmTwb4+bMEHg0NyuDc5XIhHn+gvbXHcTab1baFiBVfCgP37yKVTElWcnB+re+qeOsEZVuIVFsphnWNDaj31CEciUnqc3BOGdecoGxXOOgsKISIDdIJDPxkZgo9gS6JFQfnlFkTpBCUbakjduFSaD9xWuKkKp4klJWCsi1EbPWXwzHJEgVWPOH11stXMy4te306JlZPWEuw7LFCXSM6Rps3NecpsK2w4iPREPa37BYCa+DVO9dYsNS1tyIWrILuDGwXx46fylOcTwsiHg7eM1sQFrmpLtk1YdQRLy0qzoeENuwwiHgz8mvo+v+Ce7jXfrui0NFZUc7PSaXbLRk7558TOxb1d2vBAOAfSBFW4nfq4tEAAAAASUVORK5CYII="/>
+                </svg>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}{{ site.baseurl }}">
