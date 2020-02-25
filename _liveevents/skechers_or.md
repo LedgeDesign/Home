@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Skechers • Mark Nason
-tag: "Skechers • Mark Nason"
+title: Skechers Outdoor Retailer
+tag: "Skechers Outdoor Retailer"
 preview: skechers_or/skechers_or_pv.png
 order: 1
 published: true
