@@ -3,7 +3,7 @@ layout: post
 title: 2013 Barbie Fall Toy Fair
 tag: "Barbie Fall Toy Fair"
 preview: barbieftft/preBarbie.png
-order: 6
+order: 8
 ---
 Mattel • CAD Production Designer
 
