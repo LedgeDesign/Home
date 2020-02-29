@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skechers Outdoor Retailer
+title: Skechers • Outdoor Retailer
 tag: "Skechers Outdoor Retailer"
 preview: skechers_or/skechers_or_pv.png
 order: 1
